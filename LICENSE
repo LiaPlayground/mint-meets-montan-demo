@@ -1,0 +1,15 @@
+Finde Deinen Weg – Ein Rundgang durch den Rohstoffkreislauf
+Demo-Kurs für das Vorhaben „MINT meets MONTAN“
+© 2026 MINT meets MONTAN – TU Bergakademie Freiberg
+
+Course text, planning (journal.md) and the drawn 360° image
+(assets/images/stollen-360.png) are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Exceptions:
+- Photos embedded from Wikimedia Commons keep their own licenses, as listed
+  in the chapter "Bildnachweise" of README.md.
+- Definitions shown from Wiktionary are licensed CC BY-SA by their authors.
+- The dashboard library in specs/dashboard/ is part of the Teaching-Agent and
+  licensed under the Boost Software License 1.0 (see specs/dashboard/LICENSE).

@@ -1,0 +1,11 @@
+# Only the published course, its planning and the dashboard library are tracked.
+# Everything else in this folder (assistant files, confidential documents, caches) stays local.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/journal.md
+!/assets/
+!/specs/
+/specs/*
+!/specs/dashboard/
