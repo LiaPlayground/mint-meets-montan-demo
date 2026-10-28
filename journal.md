@@ -31,7 +31,7 @@ Hier wächst dein Kursplan. Du bringst deine Idee mit; der Assistent im Chat hil
 {
   "title": "Finde Deinen Weg – Ein Rundgang durch den Rohstoffkreislauf",
   "context": "Schülerinnen von 16–25 Jahren · Selbstlernkurs, 5 Etappen × 10 Minuten · Demo für die Partner von MINT meets MONTAN",
-  "subtitle": "Alle fünf Etappen sind bestanden, und die Kursprüfung vom 28.10.2026 ist bestanden; die Sachaussagen stehen belegt auf der Seite „Quellen“. Es fehlt nur noch dein Blick auf das Material – Ziel: fertig vor dem 06.11.2026.",
+  "subtitle": "Alle fünf Etappen und die Kursprüfung sind bestanden, und der Kurs ist seit dem 28.10.2026 unter LiaPlayground veröffentlicht. Es fehlt nur noch dein Blick auf das Material – Ziel: fertig vor dem 06.11.2026.",
   "notice": "Messwerte, Remote-Angebote, Mia und die Chat-Figuren sind Beispiele bzw. Ideen und im Kurs so gekennzeichnet. Die Demo braucht eine Internetverbindung.",
   "next": {
     "title": "Material erstellen",
@@ -322,9 +322,9 @@ Hier wächst dein Kursplan. Du bringst deine Idee mit; der Assistent im Chat hil
       },
       {
         "title": "Veröffentlichen",
-        "state": "planned",
+        "state": "done",
         "why": "Den geprüften Kurs als Link teilen – zum Beispiel mit den Projektpartnern.",
-        "next": "Vorher eine Kontaktadresse für den Kurskopf festlegen."
+        "result": "Veröffentlicht am 28.10.2026 in LiaPlayground/mint-meets-montan-demo"
       }
     ],
     "note": "Kein Ablaufplan – mit dem Kursrahmen entschieden, daher fehlt dieser Schritt. Fertig ist eine Etappe erst, wenn ihre Prüfung bestanden ist und du sie freigegeben hast."
@@ -363,23 +363,16 @@ Hier wächst dein Kursplan. Du bringst deine Idee mit; der Assistent im Chat hil
       "title": "Offline-Versprechen im Antrag",
       "why": "Das Ideenpapier verspricht Kurse, die offline laufen; diese Demo braucht Internet. Der Partner-Kasten in Etappe 5 sagt das offen.",
       "how": "Entscheiden, ob der Satz im Partner-Kasten so bleibt oder ob der Antrag das Offline-Versprechen genauer fasst."
-    },
-    {
-      "key": "contact",
-      "kind": "prepare",
-      "title": "Kontaktadresse für den Kurskopf",
-      "why": "Wird erst zum Veröffentlichen gebraucht.",
-      "how": "Vor dem Veröffentlichen eine E-Mail-Adresse nennen, an die Schülerinnen schreiben können."
     }
   ],
   "explore": [
     {
       "icon": "🛠️",
-      "title": "Veröffentlichen",
-      "description": "Den geprüften Kurs als Link für die Partner bereitstellen – mit dem Entwicklungsassistenten.",
-      "label": "Zum Entwicklungsassistenten",
-      "href": "agent:development/switch",
-      "command": ":agent development"
+      "title": "Veröffentlichung aktualisieren",
+      "description": "Nach weiteren Änderungen den Kurs im Repository auf den neuen Stand bringen.",
+      "label": "Veröffentlichung aktualisieren",
+      "href": "agent:development/update-project",
+      "command": ":update-project"
     },
     {
       "icon": "🧑‍🎓",
@@ -1875,7 +1868,7 @@ _Noch keine Lernendenprofile._
 * __Repository:__ https://github.com/LiaPlayground/mint-meets-montan-demo
 * __Branch:__ main
 * __Viewer URL:__ https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/mint-meets-montan-demo/main/README.md
-* __State:__ not published
+* __State:__ published on 2026-10-28 (commit 8c43e1c)
 
 ---
 
